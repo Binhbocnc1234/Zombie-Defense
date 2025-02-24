@@ -1,0 +1,550 @@
+[2022-02-18T22:51:52.950917 9140 ] === CCACHE 4.3 STARTED =========================================
+[2022-02-18T22:51:52.950917 9140 ] Config: (default) absolute_paths_in_stderr = false
+[2022-02-18T22:51:52.950917 9140 ] Config: (default) base_dir = 
+[2022-02-18T22:51:52.950917 9140 ] Config: (environment) cache_dir = C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-02-18T22:51:52.950917 9140 ] Config: (default) compiler = 
+[2022-02-18T22:51:52.950917 9140 ] Config: (default) compiler_check = mtime
+[2022-02-18T22:51:52.950917 9140 ] Config: (default) compiler_type = auto
+[2022-02-18T22:51:52.950917 9140 ] Config: (default) compression = true
+[2022-02-18T22:51:52.950917 9140 ] Config: (default) compression_level = 0
+[2022-02-18T22:51:52.950917 9140 ] Config: (default) cpp_extension = 
+[2022-02-18T22:51:52.950917 9140 ] Config: (default) debug = false
+[2022-02-18T22:51:52.950917 9140 ] Config: (default) debug_dir = 
+[2022-02-18T22:51:52.950917 9140 ] Config: (default) depend_mode = false
+[2022-02-18T22:51:52.950917 9140 ] Config: (default) direct_mode = true
+[2022-02-18T22:51:52.950917 9140 ] Config: (default) disable = false
+[2022-02-18T22:51:52.950917 9140 ] Config: (default) extra_files_to_hash = 
+[2022-02-18T22:51:52.950917 9140 ] Config: (default) file_clone = false
+[2022-02-18T22:51:52.950917 9140 ] Config: (default) hard_link = false
+[2022-02-18T22:51:52.950917 9140 ] Config: (default) hash_dir = true
+[2022-02-18T22:51:52.950917 9140 ] Config: (default) ignore_headers_in_manifest = 
+[2022-02-18T22:51:52.950917 9140 ] Config: (default) ignore_options = 
+[2022-02-18T22:51:52.950917 9140 ] Config: (default) inode_cache = false
+[2022-02-18T22:51:52.950917 9140 ] Config: (default) keep_comments_cpp = false
+[2022-02-18T22:51:52.950917 9140 ] Config: (default) limit_multiple = 0.8
+[2022-02-18T22:51:52.950917 9140 ] Config: (environment) log_file = C:\Users\ADMIN\MYPROG~1\Python\ZOMBIE~1\__main__.build\ccache-13116.txt
+[2022-02-18T22:51:52.950917 9140 ] Config: (default) max_files = 0
+[2022-02-18T22:51:52.950917 9140 ] Config: (default) max_size = 5.0G
+[2022-02-18T22:51:52.950917 9140 ] Config: (default) path = 
+[2022-02-18T22:51:52.950917 9140 ] Config: (default) pch_external_checksum = false
+[2022-02-18T22:51:52.950917 9140 ] Config: (default) prefix_command = 
+[2022-02-18T22:51:52.950917 9140 ] Config: (default) prefix_command_cpp = 
+[2022-02-18T22:51:52.950917 9140 ] Config: (default) read_only = false
+[2022-02-18T22:51:52.950917 9140 ] Config: (default) read_only_direct = false
+[2022-02-18T22:51:52.950917 9140 ] Config: (default) recache = false
+[2022-02-18T22:51:52.950917 9140 ] Config: (default) run_second_cpp = true
+[2022-02-18T22:51:52.950917 9140 ] Config: (default) sloppiness = 
+[2022-02-18T22:51:52.950917 9140 ] Config: (default) stats = true
+[2022-02-18T22:51:52.950917 9140 ] Config: (default) temporary_dir = C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-02-18T22:51:52.950917 9140 ] Config: (default) umask = 
+[2022-02-18T22:51:52.951110 9140 ] Command line: C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\ccache.exe C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\gcc.exe -o __constants.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\ADMIN\AppData\Local\Programs\Python\Python39\include -I. -IC:\Users\ADMIN\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Users\ADMIN\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\static_src __constants.c
+[2022-02-18T22:51:52.952389 9140 ] Hostname: unknown
+[2022-02-18T22:51:52.952403 9140 ] Working directory: C:/Users/ADMIN/MYPROG~1/Python/ZOMBIE~1/__main__.build
+[2022-02-18T22:51:52.952439 9140 ] Compiler type: gcc
+[2022-02-18T22:51:52.952735 9140 ] Source file: __constants.c
+[2022-02-18T22:51:52.952747 9140 ] Object file: __constants.o
+[2022-02-18T22:51:52.952848 9140 ] Trying direct lookup
+[2022-02-18T22:51:52.953010 9140 ] Looking for result name in C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/c/a64ef8ofj6utbv8b6qd2qapd4n21vceM
+[2022-02-18T22:51:52.960099 7964 ] === CCACHE 4.3 STARTED =========================================
+[2022-02-18T22:51:52.960099 7964 ] Config: (default) absolute_paths_in_stderr = false
+[2022-02-18T22:51:52.960099 7964 ] Config: (default) base_dir = 
+[2022-02-18T22:51:52.960099 7964 ] Config: (environment) cache_dir = C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-02-18T22:51:52.960099 7964 ] Config: (default) compiler = 
+[2022-02-18T22:51:52.960099 7964 ] Config: (default) compiler_check = mtime
+[2022-02-18T22:51:52.960099 7964 ] Config: (default) compiler_type = auto
+[2022-02-18T22:51:52.960099 7964 ] Config: (default) compression = true
+[2022-02-18T22:51:52.960099 7964 ] Config: (default) compression_level = 0
+[2022-02-18T22:51:52.960099 7964 ] Config: (default) cpp_extension = 
+[2022-02-18T22:51:52.960099 7964 ] Config: (default) debug = false
+[2022-02-18T22:51:52.960099 7964 ] Config: (default) debug_dir = 
+[2022-02-18T22:51:52.960099 7964 ] Config: (default) depend_mode = false
+[2022-02-18T22:51:52.960099 7964 ] Config: (default) direct_mode = true
+[2022-02-18T22:51:52.960099 7964 ] Config: (default) disable = false
+[2022-02-18T22:51:52.960099 7964 ] Config: (default) extra_files_to_hash = 
+[2022-02-18T22:51:52.960099 7964 ] Config: (default) file_clone = false
+[2022-02-18T22:51:52.960099 7964 ] Config: (default) hard_link = false
+[2022-02-18T22:51:52.960099 7964 ] Config: (default) hash_dir = true
+[2022-02-18T22:51:52.960099 7964 ] Config: (default) ignore_headers_in_manifest = 
+[2022-02-18T22:51:52.960099 7964 ] Config: (default) ignore_options = 
+[2022-02-18T22:51:52.960099 7964 ] Config: (default) inode_cache = false
+[2022-02-18T22:51:52.960099 7964 ] Config: (default) keep_comments_cpp = false
+[2022-02-18T22:51:52.960099 7964 ] Config: (default) limit_multiple = 0.8
+[2022-02-18T22:51:52.960099 7964 ] Config: (environment) log_file = C:\Users\ADMIN\MYPROG~1\Python\ZOMBIE~1\__main__.build\ccache-13116.txt
+[2022-02-18T22:51:52.960099 7964 ] Config: (default) max_files = 0
+[2022-02-18T22:51:52.960099 7964 ] Config: (default) max_size = 5.0G
+[2022-02-18T22:51:52.960099 7964 ] Config: (default) path = 
+[2022-02-18T22:51:52.960099 7964 ] Config: (default) pch_external_checksum = false
+[2022-02-18T22:51:52.960099 7964 ] Config: (default) prefix_command = 
+[2022-02-18T22:51:52.960099 7964 ] Config: (default) prefix_command_cpp = 
+[2022-02-18T22:51:52.960099 7964 ] Config: (default) read_only = false
+[2022-02-18T22:51:52.960099 7964 ] Config: (default) read_only_direct = false
+[2022-02-18T22:51:52.960099 7964 ] Config: (default) recache = false
+[2022-02-18T22:51:52.960099 7964 ] Config: (default) run_second_cpp = true
+[2022-02-18T22:51:52.960099 7964 ] Config: (default) sloppiness = 
+[2022-02-18T22:51:52.960099 7964 ] Config: (default) stats = true
+[2022-02-18T22:51:52.960099 7964 ] Config: (default) temporary_dir = C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-02-18T22:51:52.960099 7964 ] Config: (default) umask = 
+[2022-02-18T22:51:52.960222 7964 ] Command line: C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\ccache.exe C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\gcc.exe -o __helpers.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\ADMIN\AppData\Local\Programs\Python\Python39\include -I. -IC:\Users\ADMIN\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Users\ADMIN\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\static_src __helpers.c
+[2022-02-18T22:51:52.960276 7964 ] Hostname: unknown
+[2022-02-18T22:51:52.960287 7964 ] Working directory: C:/Users/ADMIN/MYPROG~1/Python/ZOMBIE~1/__main__.build
+[2022-02-18T22:51:52.960295 7964 ] Compiler type: gcc
+[2022-02-18T22:51:52.960515 7964 ] Source file: __helpers.c
+[2022-02-18T22:51:52.960526 7964 ] Object file: __helpers.o
+[2022-02-18T22:51:52.960593 7964 ] Trying direct lookup
+[2022-02-18T22:51:52.960723 7964 ] Looking for result name in C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/7/6336c0ishnokl2u0mnb9ilre6ejuehoM
+[2022-02-18T22:51:52.970243 9052 ] === CCACHE 4.3 STARTED =========================================
+[2022-02-18T22:51:52.970243 9052 ] Config: (default) absolute_paths_in_stderr = false
+[2022-02-18T22:51:52.970243 9052 ] Config: (default) base_dir = 
+[2022-02-18T22:51:52.970243 9052 ] Config: (environment) cache_dir = C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-02-18T22:51:52.970243 9052 ] Config: (default) compiler = 
+[2022-02-18T22:51:52.970243 9052 ] Config: (default) compiler_check = mtime
+[2022-02-18T22:51:52.970243 9052 ] Config: (default) compiler_type = auto
+[2022-02-18T22:51:52.970243 9052 ] Config: (default) compression = true
+[2022-02-18T22:51:52.970243 9052 ] Config: (default) compression_level = 0
+[2022-02-18T22:51:52.970243 9052 ] Config: (default) cpp_extension = 
+[2022-02-18T22:51:52.970243 9052 ] Config: (default) debug = false
+[2022-02-18T22:51:52.970243 9052 ] Config: (default) debug_dir = 
+[2022-02-18T22:51:52.970243 9052 ] Config: (default) depend_mode = false
+[2022-02-18T22:51:52.970243 9052 ] Config: (default) direct_mode = true
+[2022-02-18T22:51:52.970243 9052 ] Config: (default) disable = false
+[2022-02-18T22:51:52.970243 9052 ] Config: (default) extra_files_to_hash = 
+[2022-02-18T22:51:52.970243 9052 ] Config: (default) file_clone = false
+[2022-02-18T22:51:52.970243 9052 ] Config: (default) hard_link = false
+[2022-02-18T22:51:52.970243 9052 ] Config: (default) hash_dir = true
+[2022-02-18T22:51:52.970243 9052 ] Config: (default) ignore_headers_in_manifest = 
+[2022-02-18T22:51:52.970243 9052 ] Config: (default) ignore_options = 
+[2022-02-18T22:51:52.970243 9052 ] Config: (default) inode_cache = false
+[2022-02-18T22:51:52.970243 9052 ] Config: (default) keep_comments_cpp = false
+[2022-02-18T22:51:52.970243 9052 ] Config: (default) limit_multiple = 0.8
+[2022-02-18T22:51:52.970243 9052 ] Config: (environment) log_file = C:\Users\ADMIN\MYPROG~1\Python\ZOMBIE~1\__main__.build\ccache-13116.txt
+[2022-02-18T22:51:52.970243 9052 ] Config: (default) max_files = 0
+[2022-02-18T22:51:52.970243 9052 ] Config: (default) max_size = 5.0G
+[2022-02-18T22:51:52.970243 9052 ] Config: (default) path = 
+[2022-02-18T22:51:52.970243 9052 ] Config: (default) pch_external_checksum = false
+[2022-02-18T22:51:52.970243 9052 ] Config: (default) prefix_command = 
+[2022-02-18T22:51:52.970243 9052 ] Config: (default) prefix_command_cpp = 
+[2022-02-18T22:51:52.970243 9052 ] Config: (default) read_only = false
+[2022-02-18T22:51:52.970243 9052 ] Config: (default) read_only_direct = false
+[2022-02-18T22:51:52.970243 9052 ] Config: (default) recache = false
+[2022-02-18T22:51:52.970243 9052 ] Config: (default) run_second_cpp = true
+[2022-02-18T22:51:52.970243 9052 ] Config: (default) sloppiness = 
+[2022-02-18T22:51:52.970243 9052 ] Config: (default) stats = true
+[2022-02-18T22:51:52.970243 9052 ] Config: (default) temporary_dir = C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-02-18T22:51:52.970243 9052 ] Config: (default) umask = 
+[2022-02-18T22:51:52.970412 9052 ] Command line: C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\ccache.exe C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\gcc.exe -o __loader.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\ADMIN\AppData\Local\Programs\Python\Python39\include -I. -IC:\Users\ADMIN\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Users\ADMIN\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\static_src __loader.c
+[2022-02-18T22:51:52.970470 9052 ] Hostname: unknown
+[2022-02-18T22:51:52.970481 9052 ] Working directory: C:/Users/ADMIN/MYPROG~1/Python/ZOMBIE~1/__main__.build
+[2022-02-18T22:51:52.970488 9052 ] Compiler type: gcc
+[2022-02-18T22:51:52.970722 9052 ] Source file: __loader.c
+[2022-02-18T22:51:52.970733 9052 ] Object file: __loader.o
+[2022-02-18T22:51:52.970801 9052 ] Trying direct lookup
+[2022-02-18T22:51:52.970944 9052 ] Looking for result name in C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/f/8ctcl4p5vkno2jvh67jmatv7bf8gpomM
+[2022-02-18T22:51:52.981479 9052 ] Got result name from manifest
+[2022-02-18T22:51:52.981544 9052 ] Reading result C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/1/dfcb2pthrq6ema26hgmg47vfq9jnptsR
+[2022-02-18T22:51:52.981678 9052 ] Reading embedded entry #0 .o (9265 bytes)
+[2022-02-18T22:51:52.981692 9052 ] Writing to __loader.o
+[2022-02-18T22:51:52.982185 9052 ] Succeeded getting cached result
+[2022-02-18T22:51:52.982215 9052 ] Result: cache hit (direct)
+[2022-02-18T22:51:52.982420 9052 ] Acquired lock C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/1/stats.lock
+[2022-02-18T22:51:52.984152 9052 ] Releasing lock C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/1/stats.lock
+[2022-02-18T22:51:52.988561 9140 ] Got result name from manifest
+[2022-02-18T22:51:52.988643 9140 ] Reading result C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/5/49pt0mqdf429smuhdfji3onkohbpg6mR
+[2022-02-18T22:51:52.988777 9140 ] Reading embedded entry #0 .o (14319 bytes)
+[2022-02-18T22:51:52.988793 9140 ] Writing to __constants.o
+[2022-02-18T22:51:52.989296 9140 ] Succeeded getting cached result
+[2022-02-18T22:51:52.989330 9140 ] Result: cache hit (direct)
+[2022-02-18T22:51:52.989566 9140 ] Acquired lock C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/5/stats.lock
+[2022-02-18T22:51:52.991515 9140 ] Releasing lock C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/5/stats.lock
+[2022-02-18T22:51:52.994124 7964 ] Got result name from manifest
+[2022-02-18T22:51:52.994199 7964 ] Reading result C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/f/05cnftq187kjno8v94aq3aijikfklssR
+[2022-02-18T22:51:52.994346 7964 ] Reading embedded entry #0 .o (2622 bytes)
+[2022-02-18T22:51:52.994362 7964 ] Writing to __helpers.o
+[2022-02-18T22:51:52.994864 7964 ] Succeeded getting cached result
+[2022-02-18T22:51:52.994895 7964 ] Result: cache hit (direct)
+[2022-02-18T22:51:52.995092 7964 ] Acquired lock C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/f/stats.lock
+[2022-02-18T22:51:52.996913 7964 ] Releasing lock C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/f/stats.lock
+[2022-02-18T22:51:53.001946 4156 ] === CCACHE 4.3 STARTED =========================================
+[2022-02-18T22:51:53.001946 4156 ] Config: (default) absolute_paths_in_stderr = false
+[2022-02-18T22:51:53.001946 4156 ] Config: (default) base_dir = 
+[2022-02-18T22:51:53.001946 4156 ] Config: (environment) cache_dir = C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-02-18T22:51:53.001946 4156 ] Config: (default) compiler = 
+[2022-02-18T22:51:53.001946 4156 ] Config: (default) compiler_check = mtime
+[2022-02-18T22:51:53.001946 4156 ] Config: (default) compiler_type = auto
+[2022-02-18T22:51:53.001946 4156 ] Config: (default) compression = true
+[2022-02-18T22:51:53.001946 4156 ] Config: (default) compression_level = 0
+[2022-02-18T22:51:53.001946 4156 ] Config: (default) cpp_extension = 
+[2022-02-18T22:51:53.001946 4156 ] Config: (default) debug = false
+[2022-02-18T22:51:53.001946 4156 ] Config: (default) debug_dir = 
+[2022-02-18T22:51:53.001946 4156 ] Config: (default) depend_mode = false
+[2022-02-18T22:51:53.001946 4156 ] Config: (default) direct_mode = true
+[2022-02-18T22:51:53.001946 4156 ] Config: (default) disable = false
+[2022-02-18T22:51:53.001946 4156 ] Config: (default) extra_files_to_hash = 
+[2022-02-18T22:51:53.001946 4156 ] Config: (default) file_clone = false
+[2022-02-18T22:51:53.001946 4156 ] Config: (default) hard_link = false
+[2022-02-18T22:51:53.001946 4156 ] Config: (default) hash_dir = true
+[2022-02-18T22:51:53.001946 4156 ] Config: (default) ignore_headers_in_manifest = 
+[2022-02-18T22:51:53.001946 4156 ] Config: (default) ignore_options = 
+[2022-02-18T22:51:53.001946 4156 ] Config: (default) inode_cache = false
+[2022-02-18T22:51:53.001946 4156 ] Config: (default) keep_comments_cpp = false
+[2022-02-18T22:51:53.001946 4156 ] Config: (default) limit_multiple = 0.8
+[2022-02-18T22:51:53.001946 4156 ] Config: (environment) log_file = C:\Users\ADMIN\MYPROG~1\Python\ZOMBIE~1\__main__.build\ccache-13116.txt
+[2022-02-18T22:51:53.001946 4156 ] Config: (default) max_files = 0
+[2022-02-18T22:51:53.001946 4156 ] Config: (default) max_size = 5.0G
+[2022-02-18T22:51:53.001946 4156 ] Config: (default) path = 
+[2022-02-18T22:51:53.001946 4156 ] Config: (default) pch_external_checksum = false
+[2022-02-18T22:51:53.001946 4156 ] Config: (default) prefix_command = 
+[2022-02-18T22:51:53.001946 4156 ] Config: (default) prefix_command_cpp = 
+[2022-02-18T22:51:53.001946 4156 ] Config: (default) read_only = false
+[2022-02-18T22:51:53.001946 4156 ] Config: (default) read_only_direct = false
+[2022-02-18T22:51:53.001946 4156 ] Config: (default) recache = false
+[2022-02-18T22:51:53.001946 4156 ] Config: (default) run_second_cpp = true
+[2022-02-18T22:51:53.001946 4156 ] Config: (default) sloppiness = 
+[2022-02-18T22:51:53.001946 4156 ] Config: (default) stats = true
+[2022-02-18T22:51:53.001946 4156 ] Config: (default) temporary_dir = C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-02-18T22:51:53.001946 4156 ] Config: (default) umask = 
+[2022-02-18T22:51:53.002127 4156 ] Command line: C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\ccache.exe C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\gcc.exe -o module.__main__.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\ADMIN\AppData\Local\Programs\Python\Python39\include -I. -IC:\Users\ADMIN\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Users\ADMIN\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\static_src module.__main__.c
+[2022-02-18T22:51:53.002175 4156 ] Hostname: unknown
+[2022-02-18T22:51:53.002186 4156 ] Working directory: C:/Users/ADMIN/MYPROG~1/Python/ZOMBIE~1/__main__.build
+[2022-02-18T22:51:53.002193 4156 ] Compiler type: gcc
+[2022-02-18T22:51:53.002408 4156 ] Source file: module.__main__.c
+[2022-02-18T22:51:53.002418 4156 ] Object file: module.__main__.o
+[2022-02-18T22:51:53.002517 4156 ] Trying direct lookup
+[2022-02-18T22:51:53.003468 4156 ] Looking for result name in C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/a/2590amkb1c2snh6oo201u2e07j6v91mM
+[2022-02-18T22:51:53.014385 10616] === CCACHE 4.3 STARTED =========================================
+[2022-02-18T22:51:53.014385 10616] Config: (default) absolute_paths_in_stderr = false
+[2022-02-18T22:51:53.014385 10616] Config: (default) base_dir = 
+[2022-02-18T22:51:53.014385 10616] Config: (environment) cache_dir = C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-02-18T22:51:53.014385 10616] Config: (default) compiler = 
+[2022-02-18T22:51:53.014385 10616] Config: (default) compiler_check = mtime
+[2022-02-18T22:51:53.014385 10616] Config: (default) compiler_type = auto
+[2022-02-18T22:51:53.014385 10616] Config: (default) compression = true
+[2022-02-18T22:51:53.014385 10616] Config: (default) compression_level = 0
+[2022-02-18T22:51:53.014385 10616] Config: (default) cpp_extension = 
+[2022-02-18T22:51:53.014385 10616] Config: (default) debug = false
+[2022-02-18T22:51:53.014385 10616] Config: (default) debug_dir = 
+[2022-02-18T22:51:53.014385 10616] Config: (default) depend_mode = false
+[2022-02-18T22:51:53.014385 10616] Config: (default) direct_mode = true
+[2022-02-18T22:51:53.014385 10616] Config: (default) disable = false
+[2022-02-18T22:51:53.014385 10616] Config: (default) extra_files_to_hash = 
+[2022-02-18T22:51:53.014385 10616] Config: (default) file_clone = false
+[2022-02-18T22:51:53.014385 10616] Config: (default) hard_link = false
+[2022-02-18T22:51:53.014385 10616] Config: (default) hash_dir = true
+[2022-02-18T22:51:53.014385 10616] Config: (default) ignore_headers_in_manifest = 
+[2022-02-18T22:51:53.014385 10616] Config: (default) ignore_options = 
+[2022-02-18T22:51:53.014385 10616] Config: (default) inode_cache = false
+[2022-02-18T22:51:53.014385 10616] Config: (default) keep_comments_cpp = false
+[2022-02-18T22:51:53.014385 10616] Config: (default) limit_multiple = 0.8
+[2022-02-18T22:51:53.014385 10616] Config: (environment) log_file = C:\Users\ADMIN\MYPROG~1\Python\ZOMBIE~1\__main__.build\ccache-13116.txt
+[2022-02-18T22:51:53.014385 10616] Config: (default) max_files = 0
+[2022-02-18T22:51:53.014385 10616] Config: (default) max_size = 5.0G
+[2022-02-18T22:51:53.014385 10616] Config: (default) path = 
+[2022-02-18T22:51:53.014385 10616] Config: (default) pch_external_checksum = false
+[2022-02-18T22:51:53.014385 10616] Config: (default) prefix_command = 
+[2022-02-18T22:51:53.014385 10616] Config: (default) prefix_command_cpp = 
+[2022-02-18T22:51:53.014385 10616] Config: (default) read_only = false
+[2022-02-18T22:51:53.014385 10616] Config: (default) read_only_direct = false
+[2022-02-18T22:51:53.014385 10616] Config: (default) recache = false
+[2022-02-18T22:51:53.014385 10616] Config: (default) run_second_cpp = true
+[2022-02-18T22:51:53.014385 10616] Config: (default) sloppiness = 
+[2022-02-18T22:51:53.014385 10616] Config: (default) stats = true
+[2022-02-18T22:51:53.014385 10616] Config: (default) temporary_dir = C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-02-18T22:51:53.014385 10616] Config: (default) umask = 
+[2022-02-18T22:51:53.014513 10616] Command line: C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\ccache.exe C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\gcc.exe -o static_src\MainProgram.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\ADMIN\AppData\Local\Programs\Python\Python39\include -I. -IC:\Users\ADMIN\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Users\ADMIN\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\static_src static_src\MainProgram.c
+[2022-02-18T22:51:53.014567 10616] Hostname: unknown
+[2022-02-18T22:51:53.014578 10616] Working directory: C:/Users/ADMIN/MYPROG~1/Python/ZOMBIE~1/__main__.build
+[2022-02-18T22:51:53.014585 10616] Compiler type: gcc
+[2022-02-18T22:51:53.014803 10616] Source file: static_src\MainProgram.c
+[2022-02-18T22:51:53.014814 10616] Object file: static_src\MainProgram.o
+[2022-02-18T22:51:53.014878 10616] Trying direct lookup
+[2022-02-18T22:51:53.015039 10616] Looking for result name in C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/5/30n2kh9b2b9a3s9rjh8c7ud4u03ta4cM
+[2022-02-18T22:51:53.022059 7560 ] === CCACHE 4.3 STARTED =========================================
+[2022-02-18T22:51:53.022059 7560 ] Config: (default) absolute_paths_in_stderr = false
+[2022-02-18T22:51:53.022059 7560 ] Config: (default) base_dir = 
+[2022-02-18T22:51:53.022059 7560 ] Config: (environment) cache_dir = C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-02-18T22:51:53.022059 7560 ] Config: (default) compiler = 
+[2022-02-18T22:51:53.022059 7560 ] Config: (default) compiler_check = mtime
+[2022-02-18T22:51:53.022059 7560 ] Config: (default) compiler_type = auto
+[2022-02-18T22:51:53.022059 7560 ] Config: (default) compression = true
+[2022-02-18T22:51:53.022059 7560 ] Config: (default) compression_level = 0
+[2022-02-18T22:51:53.022059 7560 ] Config: (default) cpp_extension = 
+[2022-02-18T22:51:53.022059 7560 ] Config: (default) debug = false
+[2022-02-18T22:51:53.022059 7560 ] Config: (default) debug_dir = 
+[2022-02-18T22:51:53.022059 7560 ] Config: (default) depend_mode = false
+[2022-02-18T22:51:53.022059 7560 ] Config: (default) direct_mode = true
+[2022-02-18T22:51:53.022059 7560 ] Config: (default) disable = false
+[2022-02-18T22:51:53.022059 7560 ] Config: (default) extra_files_to_hash = 
+[2022-02-18T22:51:53.022059 7560 ] Config: (default) file_clone = false
+[2022-02-18T22:51:53.022059 7560 ] Config: (default) hard_link = false
+[2022-02-18T22:51:53.022059 7560 ] Config: (default) hash_dir = true
+[2022-02-18T22:51:53.022059 7560 ] Config: (default) ignore_headers_in_manifest = 
+[2022-02-18T22:51:53.022059 7560 ] Config: (default) ignore_options = 
+[2022-02-18T22:51:53.022059 7560 ] Config: (default) inode_cache = false
+[2022-02-18T22:51:53.022059 7560 ] Config: (default) keep_comments_cpp = false
+[2022-02-18T22:51:53.022059 7560 ] Config: (default) limit_multiple = 0.8
+[2022-02-18T22:51:53.022059 7560 ] Config: (environment) log_file = C:\Users\ADMIN\MYPROG~1\Python\ZOMBIE~1\__main__.build\ccache-13116.txt
+[2022-02-18T22:51:53.022059 7560 ] Config: (default) max_files = 0
+[2022-02-18T22:51:53.022059 7560 ] Config: (default) max_size = 5.0G
+[2022-02-18T22:51:53.022059 7560 ] Config: (default) path = 
+[2022-02-18T22:51:53.022059 7560 ] Config: (default) pch_external_checksum = false
+[2022-02-18T22:51:53.022059 7560 ] Config: (default) prefix_command = 
+[2022-02-18T22:51:53.022059 7560 ] Config: (default) prefix_command_cpp = 
+[2022-02-18T22:51:53.022059 7560 ] Config: (default) read_only = false
+[2022-02-18T22:51:53.022059 7560 ] Config: (default) read_only_direct = false
+[2022-02-18T22:51:53.022059 7560 ] Config: (default) recache = false
+[2022-02-18T22:51:53.022059 7560 ] Config: (default) run_second_cpp = true
+[2022-02-18T22:51:53.022059 7560 ] Config: (default) sloppiness = 
+[2022-02-18T22:51:53.022059 7560 ] Config: (default) stats = true
+[2022-02-18T22:51:53.022059 7560 ] Config: (default) temporary_dir = C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-02-18T22:51:53.022059 7560 ] Config: (default) umask = 
+[2022-02-18T22:51:53.022185 7560 ] Command line: C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\ccache.exe C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\gcc.exe -o static_src\CompiledCellType.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\ADMIN\AppData\Local\Programs\Python\Python39\include -I. -IC:\Users\ADMIN\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Users\ADMIN\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\static_src static_src\CompiledCellType.c
+[2022-02-18T22:51:53.022202 7560 ] Hostname: unknown
+[2022-02-18T22:51:53.022213 7560 ] Working directory: C:/Users/ADMIN/MYPROG~1/Python/ZOMBIE~1/__main__.build
+[2022-02-18T22:51:53.022221 7560 ] Compiler type: gcc
+[2022-02-18T22:51:53.022448 7560 ] Source file: static_src\CompiledCellType.c
+[2022-02-18T22:51:53.022460 7560 ] Object file: static_src\CompiledCellType.o
+[2022-02-18T22:51:53.022526 7560 ] Trying direct lookup
+[2022-02-18T22:51:53.022671 7560 ] Looking for result name in C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/0/56ph038ngeo0kdnupfg0k3pmn9spntsM
+[2022-02-18T22:51:53.034132 4156 ] Got result name from manifest
+[2022-02-18T22:51:53.034193 4156 ] Reading result C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/8/7366909aaot0t2eg0v9a1phtadt9sv4R
+[2022-02-18T22:51:53.034360 4156 ] Reading embedded entry #0 .o (641211 bytes)
+[2022-02-18T22:51:53.034375 4156 ] Writing to module.__main__.o
+[2022-02-18T22:51:53.035514 4156 ] Succeeded getting cached result
+[2022-02-18T22:51:53.035537 4156 ] Result: cache hit (direct)
+[2022-02-18T22:51:53.035700 4156 ] Acquired lock C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/8/stats.lock
+[2022-02-18T22:51:53.037260 4156 ] Releasing lock C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/8/stats.lock
+[2022-02-18T22:51:53.052817 7560 ] Got result name from manifest
+[2022-02-18T22:51:53.052907 7560 ] Reading result C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/a/e534j0kg49k5end0a6eqt8s0g544p9eR
+[2022-02-18T22:51:53.053051 7560 ] Reading embedded entry #0 .o (35629 bytes)
+[2022-02-18T22:51:53.053065 7560 ] Writing to static_src\CompiledCellType.o
+[2022-02-18T22:51:53.053488 7560 ] Succeeded getting cached result
+[2022-02-18T22:51:53.053509 7560 ] Result: cache hit (direct)
+[2022-02-18T22:51:53.053654 7560 ] Acquired lock C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/a/stats.lock
+[2022-02-18T22:51:53.053884 10616] Got result name from manifest
+[2022-02-18T22:51:53.053938 10616] Reading result C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/8/69dukpke92hkm2l59s61a4qn72v6s2mR
+[2022-02-18T22:51:53.054083 10616] Reading embedded entry #0 .o (24447 bytes)
+[2022-02-18T22:51:53.054097 10616] Writing to static_src\MainProgram.o
+[2022-02-18T22:51:53.054541 10616] Succeeded getting cached result
+[2022-02-18T22:51:53.054592 10616] Result: cache hit (direct)
+[2022-02-18T22:51:53.054761 10616] Acquired lock C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/8/stats.lock
+[2022-02-18T22:51:53.055272 7560 ] Releasing lock C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/a/stats.lock
+[2022-02-18T22:51:53.056221 10616] Releasing lock C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/8/stats.lock
+[2022-02-18T22:51:53.160239 2880 ] === CCACHE 4.3 STARTED =========================================
+[2022-02-18T22:51:53.160239 2880 ] Config: (default) absolute_paths_in_stderr = false
+[2022-02-18T22:51:53.160239 2880 ] Config: (default) base_dir = 
+[2022-02-18T22:51:53.160239 2880 ] Config: (environment) cache_dir = C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-02-18T22:51:53.160239 2880 ] Config: (default) compiler = 
+[2022-02-18T22:51:53.160239 2880 ] Config: (default) compiler_check = mtime
+[2022-02-18T22:51:53.160239 2880 ] Config: (default) compiler_type = auto
+[2022-02-18T22:51:53.160239 2880 ] Config: (default) compression = true
+[2022-02-18T22:51:53.160239 2880 ] Config: (default) compression_level = 0
+[2022-02-18T22:51:53.160239 2880 ] Config: (default) cpp_extension = 
+[2022-02-18T22:51:53.160239 2880 ] Config: (default) debug = false
+[2022-02-18T22:51:53.160239 2880 ] Config: (default) debug_dir = 
+[2022-02-18T22:51:53.160239 2880 ] Config: (default) depend_mode = false
+[2022-02-18T22:51:53.160239 2880 ] Config: (default) direct_mode = true
+[2022-02-18T22:51:53.160239 2880 ] Config: (default) disable = false
+[2022-02-18T22:51:53.160239 2880 ] Config: (default) extra_files_to_hash = 
+[2022-02-18T22:51:53.160239 2880 ] Config: (default) file_clone = false
+[2022-02-18T22:51:53.160239 2880 ] Config: (default) hard_link = false
+[2022-02-18T22:51:53.160239 2880 ] Config: (default) hash_dir = true
+[2022-02-18T22:51:53.160239 2880 ] Config: (default) ignore_headers_in_manifest = 
+[2022-02-18T22:51:53.160239 2880 ] Config: (default) ignore_options = 
+[2022-02-18T22:51:53.160239 2880 ] Config: (default) inode_cache = false
+[2022-02-18T22:51:53.160239 2880 ] Config: (default) keep_comments_cpp = false
+[2022-02-18T22:51:53.160239 2880 ] Config: (default) limit_multiple = 0.8
+[2022-02-18T22:51:53.160239 2880 ] Config: (environment) log_file = C:\Users\ADMIN\MYPROG~1\Python\ZOMBIE~1\__main__.build\ccache-13116.txt
+[2022-02-18T22:51:53.160239 2880 ] Config: (default) max_files = 0
+[2022-02-18T22:51:53.160239 2880 ] Config: (default) max_size = 5.0G
+[2022-02-18T22:51:53.160239 2880 ] Config: (default) path = 
+[2022-02-18T22:51:53.160239 2880 ] Config: (default) pch_external_checksum = false
+[2022-02-18T22:51:53.160239 2880 ] Config: (default) prefix_command = 
+[2022-02-18T22:51:53.160239 2880 ] Config: (default) prefix_command_cpp = 
+[2022-02-18T22:51:53.160239 2880 ] Config: (default) read_only = false
+[2022-02-18T22:51:53.160239 2880 ] Config: (default) read_only_direct = false
+[2022-02-18T22:51:53.160239 2880 ] Config: (default) recache = false
+[2022-02-18T22:51:53.160239 2880 ] Config: (default) run_second_cpp = true
+[2022-02-18T22:51:53.160239 2880 ] Config: (default) sloppiness = 
+[2022-02-18T22:51:53.160239 2880 ] Config: (default) stats = true
+[2022-02-18T22:51:53.160239 2880 ] Config: (default) temporary_dir = C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-02-18T22:51:53.160239 2880 ] Config: (default) umask = 
+[2022-02-18T22:51:53.160394 2880 ] Command line: C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\ccache.exe C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\gcc.exe -o static_src\CompiledFunctionType.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\ADMIN\AppData\Local\Programs\Python\Python39\include -I. -IC:\Users\ADMIN\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Users\ADMIN\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\static_src static_src\CompiledFunctionType.c
+[2022-02-18T22:51:53.160442 2880 ] Hostname: unknown
+[2022-02-18T22:51:53.160453 2880 ] Working directory: C:/Users/ADMIN/MYPROG~1/Python/ZOMBIE~1/__main__.build
+[2022-02-18T22:51:53.160460 2880 ] Compiler type: gcc
+[2022-02-18T22:51:53.160700 2880 ] Source file: static_src\CompiledFunctionType.c
+[2022-02-18T22:51:53.160710 2880 ] Object file: static_src\CompiledFunctionType.o
+[2022-02-18T22:51:53.160786 2880 ] Trying direct lookup
+[2022-02-18T22:51:53.160999 2880 ] Looking for result name in C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/1/7bdinhblgfgnm7n5qoe76sf2m2isd38M
+[2022-02-18T22:51:53.177517 4984 ] === CCACHE 4.3 STARTED =========================================
+[2022-02-18T22:51:53.177517 4984 ] Config: (default) absolute_paths_in_stderr = false
+[2022-02-18T22:51:53.177517 4984 ] Config: (default) base_dir = 
+[2022-02-18T22:51:53.177517 4984 ] Config: (environment) cache_dir = C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-02-18T22:51:53.177517 4984 ] Config: (default) compiler = 
+[2022-02-18T22:51:53.177517 4984 ] Config: (default) compiler_check = mtime
+[2022-02-18T22:51:53.177517 4984 ] Config: (default) compiler_type = auto
+[2022-02-18T22:51:53.177517 4984 ] Config: (default) compression = true
+[2022-02-18T22:51:53.177517 4984 ] Config: (default) compression_level = 0
+[2022-02-18T22:51:53.177517 4984 ] Config: (default) cpp_extension = 
+[2022-02-18T22:51:53.177517 4984 ] Config: (default) debug = false
+[2022-02-18T22:51:53.177517 4984 ] Config: (default) debug_dir = 
+[2022-02-18T22:51:53.177517 4984 ] Config: (default) depend_mode = false
+[2022-02-18T22:51:53.177517 4984 ] Config: (default) direct_mode = true
+[2022-02-18T22:51:53.177517 4984 ] Config: (default) disable = false
+[2022-02-18T22:51:53.177517 4984 ] Config: (default) extra_files_to_hash = 
+[2022-02-18T22:51:53.177517 4984 ] Config: (default) file_clone = false
+[2022-02-18T22:51:53.177517 4984 ] Config: (default) hard_link = false
+[2022-02-18T22:51:53.177517 4984 ] Config: (default) hash_dir = true
+[2022-02-18T22:51:53.177517 4984 ] Config: (default) ignore_headers_in_manifest = 
+[2022-02-18T22:51:53.177517 4984 ] Config: (default) ignore_options = 
+[2022-02-18T22:51:53.177517 4984 ] Config: (default) inode_cache = false
+[2022-02-18T22:51:53.177517 4984 ] Config: (default) keep_comments_cpp = false
+[2022-02-18T22:51:53.177517 4984 ] Config: (default) limit_multiple = 0.8
+[2022-02-18T22:51:53.177517 4984 ] Config: (environment) log_file = C:\Users\ADMIN\MYPROG~1\Python\ZOMBIE~1\__main__.build\ccache-13116.txt
+[2022-02-18T22:51:53.177517 4984 ] Config: (default) max_files = 0
+[2022-02-18T22:51:53.177517 4984 ] Config: (default) max_size = 5.0G
+[2022-02-18T22:51:53.177517 4984 ] Config: (default) path = 
+[2022-02-18T22:51:53.177517 4984 ] Config: (default) pch_external_checksum = false
+[2022-02-18T22:51:53.177517 4984 ] Config: (default) prefix_command = 
+[2022-02-18T22:51:53.177517 4984 ] Config: (default) prefix_command_cpp = 
+[2022-02-18T22:51:53.177517 4984 ] Config: (default) read_only = false
+[2022-02-18T22:51:53.177517 4984 ] Config: (default) read_only_direct = false
+[2022-02-18T22:51:53.177517 4984 ] Config: (default) recache = false
+[2022-02-18T22:51:53.177517 4984 ] Config: (default) run_second_cpp = true
+[2022-02-18T22:51:53.177517 4984 ] Config: (default) sloppiness = 
+[2022-02-18T22:51:53.177517 4984 ] Config: (default) stats = true
+[2022-02-18T22:51:53.177517 4984 ] Config: (default) temporary_dir = C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-02-18T22:51:53.177517 4984 ] Config: (default) umask = 
+[2022-02-18T22:51:53.177641 4984 ] Command line: C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\ccache.exe C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\gcc.exe -o static_src\CompiledGeneratorType.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\ADMIN\AppData\Local\Programs\Python\Python39\include -I. -IC:\Users\ADMIN\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Users\ADMIN\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\static_src static_src\CompiledGeneratorType.c
+[2022-02-18T22:51:53.177696 4984 ] Hostname: unknown
+[2022-02-18T22:51:53.177708 4984 ] Working directory: C:/Users/ADMIN/MYPROG~1/Python/ZOMBIE~1/__main__.build
+[2022-02-18T22:51:53.177715 4984 ] Compiler type: gcc
+[2022-02-18T22:51:53.177931 4984 ] Source file: static_src\CompiledGeneratorType.c
+[2022-02-18T22:51:53.177942 4984 ] Object file: static_src\CompiledGeneratorType.o
+[2022-02-18T22:51:53.178008 4984 ] Trying direct lookup
+[2022-02-18T22:51:53.178191 4984 ] Looking for result name in C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/1/13sg0cps137t85nd8lf084s1bunririM
+[2022-02-18T22:51:53.198893 11460] === CCACHE 4.3 STARTED =========================================
+[2022-02-18T22:51:53.198893 11460] Config: (default) absolute_paths_in_stderr = false
+[2022-02-18T22:51:53.198893 11460] Config: (default) base_dir = 
+[2022-02-18T22:51:53.198893 11460] Config: (environment) cache_dir = C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-02-18T22:51:53.198893 11460] Config: (default) compiler = 
+[2022-02-18T22:51:53.198893 11460] Config: (default) compiler_check = mtime
+[2022-02-18T22:51:53.198893 11460] Config: (default) compiler_type = auto
+[2022-02-18T22:51:53.198893 11460] Config: (default) compression = true
+[2022-02-18T22:51:53.198893 11460] Config: (default) compression_level = 0
+[2022-02-18T22:51:53.198893 11460] Config: (default) cpp_extension = 
+[2022-02-18T22:51:53.198893 11460] Config: (default) debug = false
+[2022-02-18T22:51:53.198893 11460] Config: (default) debug_dir = 
+[2022-02-18T22:51:53.198893 11460] Config: (default) depend_mode = false
+[2022-02-18T22:51:53.198893 11460] Config: (default) direct_mode = true
+[2022-02-18T22:51:53.198893 11460] Config: (default) disable = false
+[2022-02-18T22:51:53.198893 11460] Config: (default) extra_files_to_hash = 
+[2022-02-18T22:51:53.198893 11460] Config: (default) file_clone = false
+[2022-02-18T22:51:53.198893 11460] Config: (default) hard_link = false
+[2022-02-18T22:51:53.198893 11460] Config: (default) hash_dir = true
+[2022-02-18T22:51:53.198893 11460] Config: (default) ignore_headers_in_manifest = 
+[2022-02-18T22:51:53.198893 11460] Config: (default) ignore_options = 
+[2022-02-18T22:51:53.198893 11460] Config: (default) inode_cache = false
+[2022-02-18T22:51:53.198893 11460] Config: (default) keep_comments_cpp = false
+[2022-02-18T22:51:53.198893 11460] Config: (default) limit_multiple = 0.8
+[2022-02-18T22:51:53.198893 11460] Config: (environment) log_file = C:\Users\ADMIN\MYPROG~1\Python\ZOMBIE~1\__main__.build\ccache-13116.txt
+[2022-02-18T22:51:53.198893 11460] Config: (default) max_files = 0
+[2022-02-18T22:51:53.198893 11460] Config: (default) max_size = 5.0G
+[2022-02-18T22:51:53.198893 11460] Config: (default) path = 
+[2022-02-18T22:51:53.198893 11460] Config: (default) pch_external_checksum = false
+[2022-02-18T22:51:53.198893 11460] Config: (default) prefix_command = 
+[2022-02-18T22:51:53.198893 11460] Config: (default) prefix_command_cpp = 
+[2022-02-18T22:51:53.198893 11460] Config: (default) read_only = false
+[2022-02-18T22:51:53.198893 11460] Config: (default) read_only_direct = false
+[2022-02-18T22:51:53.198893 11460] Config: (default) recache = false
+[2022-02-18T22:51:53.198893 11460] Config: (default) run_second_cpp = true
+[2022-02-18T22:51:53.198893 11460] Config: (default) sloppiness = 
+[2022-02-18T22:51:53.198893 11460] Config: (default) stats = true
+[2022-02-18T22:51:53.198893 11460] Config: (default) temporary_dir = C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-02-18T22:51:53.198893 11460] Config: (default) umask = 
+[2022-02-18T22:51:53.199066 11460] Command line: C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\ccache.exe C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\gcc.exe -o static_src\InspectPatcher.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\ADMIN\AppData\Local\Programs\Python\Python39\include -I. -IC:\Users\ADMIN\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Users\ADMIN\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\static_src static_src\InspectPatcher.c
+[2022-02-18T22:51:53.199140 11460] Hostname: unknown
+[2022-02-18T22:51:53.199157 11460] Working directory: C:/Users/ADMIN/MYPROG~1/Python/ZOMBIE~1/__main__.build
+[2022-02-18T22:51:53.199168 11460] Compiler type: gcc
+[2022-02-18T22:51:53.199492 11460] Source file: static_src\InspectPatcher.c
+[2022-02-18T22:51:53.199508 11460] Object file: static_src\InspectPatcher.o
+[2022-02-18T22:51:53.199599 11460] Trying direct lookup
+[2022-02-18T22:51:53.199820 11460] Looking for result name in C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/2/f5bbu27ookbjip8jkvpf9if8b3md1qeM
+[2022-02-18T22:51:53.205368 2880 ] Got result name from manifest
+[2022-02-18T22:51:53.205438 2880 ] Reading result C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/9/c3j04uil5v5g9j7kc1sem32aat637qsR
+[2022-02-18T22:51:53.205772 2880 ] Reading embedded entry #0 .o (3238426 bytes)
+[2022-02-18T22:51:53.205786 2880 ] Writing to static_src\CompiledFunctionType.o
+[2022-02-18T22:51:53.209990 2880 ] Succeeded getting cached result
+[2022-02-18T22:51:53.210031 2880 ] Result: cache hit (direct)
+[2022-02-18T22:51:53.210293 2880 ] Acquired lock C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/9/stats.lock
+[2022-02-18T22:51:53.211297 4984 ] Got result name from manifest
+[2022-02-18T22:51:53.211379 4984 ] Reading result C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/4/0ageic0c29q9s4n0c1vnrsbmdt4obcqR
+[2022-02-18T22:51:53.211675 4984 ] Reading embedded entry #0 .o (359529 bytes)
+[2022-02-18T22:51:53.211696 4984 ] Writing to static_src\CompiledGeneratorType.o
+[2022-02-18T22:51:53.211986 2880 ] Releasing lock C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/9/stats.lock
+[2022-02-18T22:51:53.212792 4984 ] Succeeded getting cached result
+[2022-02-18T22:51:53.212835 4984 ] Result: cache hit (direct)
+[2022-02-18T22:51:53.213104 4984 ] Acquired lock C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/4/stats.lock
+[2022-02-18T22:51:53.213108 12388] === CCACHE 4.3 STARTED =========================================
+[2022-02-18T22:51:53.213108 12388] Config: (default) absolute_paths_in_stderr = false
+[2022-02-18T22:51:53.213108 12388] Config: (default) base_dir = 
+[2022-02-18T22:51:53.213108 12388] Config: (environment) cache_dir = C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-02-18T22:51:53.213108 12388] Config: (default) compiler = 
+[2022-02-18T22:51:53.213108 12388] Config: (default) compiler_check = mtime
+[2022-02-18T22:51:53.213108 12388] Config: (default) compiler_type = auto
+[2022-02-18T22:51:53.213108 12388] Config: (default) compression = true
+[2022-02-18T22:51:53.213108 12388] Config: (default) compression_level = 0
+[2022-02-18T22:51:53.213108 12388] Config: (default) cpp_extension = 
+[2022-02-18T22:51:53.213108 12388] Config: (default) debug = false
+[2022-02-18T22:51:53.213108 12388] Config: (default) debug_dir = 
+[2022-02-18T22:51:53.213108 12388] Config: (default) depend_mode = false
+[2022-02-18T22:51:53.213108 12388] Config: (default) direct_mode = true
+[2022-02-18T22:51:53.213108 12388] Config: (default) disable = false
+[2022-02-18T22:51:53.213108 12388] Config: (default) extra_files_to_hash = 
+[2022-02-18T22:51:53.213108 12388] Config: (default) file_clone = false
+[2022-02-18T22:51:53.213108 12388] Config: (default) hard_link = false
+[2022-02-18T22:51:53.213108 12388] Config: (default) hash_dir = true
+[2022-02-18T22:51:53.213108 12388] Config: (default) ignore_headers_in_manifest = 
+[2022-02-18T22:51:53.213108 12388] Config: (default) ignore_options = 
+[2022-02-18T22:51:53.213108 12388] Config: (default) inode_cache = false
+[2022-02-18T22:51:53.213108 12388] Config: (default) keep_comments_cpp = false
+[2022-02-18T22:51:53.213108 12388] Config: (default) limit_multiple = 0.8
+[2022-02-18T22:51:53.213108 12388] Config: (environment) log_file = C:\Users\ADMIN\MYPROG~1\Python\ZOMBIE~1\__main__.build\ccache-13116.txt
+[2022-02-18T22:51:53.213108 12388] Config: (default) max_files = 0
+[2022-02-18T22:51:53.213108 12388] Config: (default) max_size = 5.0G
+[2022-02-18T22:51:53.213108 12388] Config: (default) path = 
+[2022-02-18T22:51:53.213108 12388] Config: (default) pch_external_checksum = false
+[2022-02-18T22:51:53.213108 12388] Config: (default) prefix_command = 
+[2022-02-18T22:51:53.213108 12388] Config: (default) prefix_command_cpp = 
+[2022-02-18T22:51:53.213108 12388] Config: (default) read_only = false
+[2022-02-18T22:51:53.213108 12388] Config: (default) read_only_direct = false
+[2022-02-18T22:51:53.213108 12388] Config: (default) recache = false
+[2022-02-18T22:51:53.213108 12388] Config: (default) run_second_cpp = true
+[2022-02-18T22:51:53.213108 12388] Config: (default) sloppiness = 
+[2022-02-18T22:51:53.213108 12388] Config: (default) stats = true
+[2022-02-18T22:51:53.213108 12388] Config: (default) temporary_dir = C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-02-18T22:51:53.213108 12388] Config: (default) umask = 
+[2022-02-18T22:51:53.213250 12388] Command line: C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\ccache.exe C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\gcc.exe -o static_src\MetaPathBasedLoader.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\ADMIN\AppData\Local\Programs\Python\Python39\include -I. -IC:\Users\ADMIN\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Users\ADMIN\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\static_src static_src\MetaPathBasedLoader.c
+[2022-02-18T22:51:53.213278 12388] Hostname: unknown
+[2022-02-18T22:51:53.213293 12388] Working directory: C:/Users/ADMIN/MYPROG~1/Python/ZOMBIE~1/__main__.build
+[2022-02-18T22:51:53.213304 12388] Compiler type: gcc
+[2022-02-18T22:51:53.213593 12388] Source file: static_src\MetaPathBasedLoader.c
+[2022-02-18T22:51:53.213610 12388] Object file: static_src\MetaPathBasedLoader.o
+[2022-02-18T22:51:53.213707 12388] Trying direct lookup
+[2022-02-18T22:51:53.213948 12388] Looking for result name in C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/0/70rmvit7dsbs71dkfd1nddq0pnq45mqM
+[2022-02-18T22:51:53.215093 4984 ] Releasing lock C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/4/stats.lock
+[2022-02-18T22:51:53.233079 11460] Got result name from manifest
+[2022-02-18T22:51:53.233143 11460] Reading result C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/3/1503lrqupdk0dle9kveomn4bb04ibuqR
+[2022-02-18T22:51:53.233282 11460] Reading embedded entry #0 .o (44761 bytes)
+[2022-02-18T22:51:53.233295 11460] Writing to static_src\InspectPatcher.o
+[2022-02-18T22:51:53.233729 11460] Succeeded getting cached result
+[2022-02-18T22:51:53.233752 11460] Result: cache hit (direct)
+[2022-02-18T22:51:53.233910 11460] Acquired lock C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/3/stats.lock
+[2022-02-18T22:51:53.235295 11460] Releasing lock C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/3/stats.lock
+[2022-02-18T22:51:53.245178 12388] Got result name from manifest
+[2022-02-18T22:51:53.245237 12388] Reading result C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/9/298benjl32qm1budhl63gg49o2o955kR
+[2022-02-18T22:51:53.245429 12388] Reading embedded entry #0 .o (110841 bytes)
+[2022-02-18T22:51:53.245442 12388] Writing to static_src\MetaPathBasedLoader.o
+[2022-02-18T22:51:53.245935 12388] Succeeded getting cached result
+[2022-02-18T22:51:53.245957 12388] Result: cache hit (direct)
+[2022-02-18T22:51:53.246110 12388] Acquired lock C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/9/stats.lock
+[2022-02-18T22:51:53.247490 12388] Releasing lock C:\Users\ADMIN\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/9/stats.lock

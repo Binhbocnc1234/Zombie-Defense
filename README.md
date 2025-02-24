@@ -1,0 +1,31 @@
+Welcome to Zombie Defense
+game made by team 2 in club MKDC
+Have fun playing :D
+		--Game specs--
+	FPS: 60
+	Player specs:
+    *Fire rate:
+  -Unit: Pixel per frame
+Limit arrow speed: min 7, max 14
+When the player is charging, the arrow speed will be stacked 0.13 per frame
+That means the player needs 14 / 0.13 = 107 frames for the bow to be fully loaded
+Gravity is an acceleration vector(0.2 pixel per frame) affects on the motion of arrow
+    *Damage:
+Formula: 40+ Arrow speed*(100/23)
+    *Health: default is 15. Some levels is different
+	Enemy specs:
+*-----------------------------------------------------------------------*
+|Unit      	| Health| Speed |          Special abilities	        |
+|--------------	|------ |-------|-----------------------------------	|
+|Zombie	   	|170	|	|				        |
+|Bucket Zombie	|700	|	|				        |
+|Bat	   	|400	|	|Flying, sometimes it holds other enemy |
+|Werewolf  	|400	|	|					|
+|Destroyer   	|1200	|	|Explode and spawn enemies when he died	|
+				|Number of enemies: random(1; 3)	|
+				|Destroyer can spawn itself!! with lower|
+				|chance					|
+	Upgrade specs:
+Damage up: +18% damage per upgrade. Max 8
+Fire rate up: +16% fire rate and +0.8 arrow speed per upgrade(Extra arrow's speed dont affect arrow's damage). Max 5
+Shadow arrow: Help player shoot multiple arrows. The total damage of shadow arrows increases by 21% after each upgrade 
