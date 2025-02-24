@@ -1,7 +1,7 @@
 {
     "en.Player.upgrade_lst[0]": {
         "Damage up": [
-            1,
+            3,
             0.18
         ],
         "Fire rate up": [
@@ -9,18 +9,18 @@
             0.16
         ],
         "Shadow arrow": [
-            2,
+            4,
             0.21
         ],
         "Flame arrow": [
-            1,
+            2,
             8
         ]
     },
-    "ge.star_left": 1,
+    "ge.star_left": 0,
     "Obj att ge.Level.lst['Challenges'][0]": {
         "unlock": "unlock",
-        "star": 0
+        "star": 1
     },
     "Obj att ge.Level.lst['Challenges'][1]": {
         "unlock": "unlock",
@@ -31,7 +31,7 @@
         "star": 0
     },
     "Obj att ge.Level.lst['Challenges'][3]": {
-        "unlock": "lock",
+        "unlock": "unlock",
         "star": 0
     },
     "Obj att ge.Level.lst['Challenges'][4]": {
@@ -52,14 +52,14 @@
     },
     "Obj att ge.Level.lst['Campain'][2]": {
         "unlock": "unlock",
-        "star": 2
+        "star": 3
     },
     "Obj att ge.Level.lst['Campain'][3]": {
         "unlock": "unlock",
-        "star": 0
+        "star": 3
     },
     "Obj att ge.Level.lst['Campain'][4]": {
-        "unlock": "lock",
+        "unlock": "unlock",
         "star": 0
     },
     "Obj att ge.Level.lst['Campain'][5]": {

@@ -1,7 +1,7 @@
 import entities as en
 import time_control as time
 import graphic as gp
-import game_engine as ge
+import level_design as ge
 import pygame,random,music,math,json
 
 vic=gp.Font(80).render("VICTORY!")
@@ -122,9 +122,9 @@ class Level:
     def level_clear(self):
         global star_left
         if self.type=="Campain":
-            if en.Player.health == 15:
+            if en.Player.health >= 13:
                 cur_star=3
-            elif en.Player.health > 8:
+            elif en.Player.health >= 8:
                 cur_star=2
             else:
                 cur_star=1
@@ -180,7 +180,7 @@ Level(Wave(("Zombie",7,{"is_giant":True}),("Bucket Zombie",7),("Destroyer",3),de
     Wave(("Zombie",10,{"is_giant":True}),("Bucket Zombie",2,{"is_giant":True}),("Bat",6),("Bat",3,{"hold":"Bucket Zombie"}),("Destroyer",2),delay=0.7),health=5)
 ],
 "Challenges":[
-Level(Wave(("Zombie",70),("Bucket Zombie",8),delay=1.4),max_upgrade=4,health=12),
+Level(Wave(("Zombie", 55),("Bucket Zombie",8),delay=1.5), max_upgrade=4, health=8),
 Level(Wave(("Werewolf",10),("Zombie",10),delay=1),Wave(("Werewolf",10),("Bucket Zombie",3),delay=1.5),max_upgrade=6,health=5),
 Level(Wave(("Bat",16,{"hold":"Zombie"}),("Bat",10),delay=2),
     Wave(("Bat",9,{"hold":"Bucket Zombie"}),("Bat",8),delay=3),

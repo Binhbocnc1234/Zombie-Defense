@@ -1,5 +1,8 @@
+
 Welcome to Zombie Defense
 game made by team 2 in club MKDC
+
+Demo link: https://youtu.be/6Fjceax26ug
 Have fun playing :D
 		--Game specs--
 	FPS: 60
@@ -16,7 +19,7 @@ Formula: 40+ Arrow speed*(100/23)
 	Enemy specs:
 *-----------------------------------------------------------------------*
 |Unit      	| Health| Speed |          Special abilities	        |
-|--------------	|------ |-------|-----------------------------------	|
+|-----------|------ |-------|-----------------------------------	|
 |Zombie	   	|170	|	|				        |
 |Bucket Zombie	|700	|	|				        |
 |Bat	   	|400	|	|Flying, sometimes it holds other enemy |

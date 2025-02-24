@@ -1,6 +1,6 @@
 import pygame, motion, music
 import graphic as gp
-import game_engine as ge
+import level_design as ge
 import entities as en
 from other import *
 

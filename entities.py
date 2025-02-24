@@ -97,11 +97,11 @@ class Enemy:
             y=get_random(400,500)
         elif self.type=="Bucket Zombie":
             self.health=530
-            speed=0.5
+            speed=0.4
             ratio=0.33
             y=get_random(400,500)
         elif self.type=="Werewolf":
-            self.health=400
+            self.health=350
             self.live=2
             speed=1
             ratio=0.7
@@ -112,7 +112,7 @@ class Enemy:
             ratio=0.7
             y=get_random(20,300)
         elif self.type=="Destroyer":
-            self.health=1100
+            self.health=900
             self.live=3
             self.explode_ani=gp.Spritesheet(gp.image("Enemy","explosion"),rol=10,delay=0.1,ratio=2)
             speed=0.4
